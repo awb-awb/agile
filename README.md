@@ -1,5 +1,5 @@
 # agile
 Scrum Master Coach Documents 
-Values Principles 
+Values Principles Practices 
 
-Practices several frameworks
+several frameworks
